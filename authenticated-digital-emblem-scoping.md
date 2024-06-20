@@ -21,6 +21,9 @@ Under international humanitarian law, parties to armed conflict are obliged to r
 
 ### Out of scope
 
+* Technical protections against cyberattack 
+  * Distinctive emblems and signs are protective because of international humanitarian law and the respect of those symbols. The group will not consider work on defining mechanisms to directly protect against cyberattack.
+
 * Deconfliction
-* Identification of protected offline resources
+  * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for indicating protection against physical or kinetic attack.
 
