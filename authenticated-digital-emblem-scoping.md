@@ -2,11 +2,11 @@
 
 ## Background
 
-Under international humanitarian law, parties to armed conflict are obliged to refrain from attacking physical infrastructure marked with an emblem or distinctive sign, including the Red Cross, Red Crescent and Red Crystal. As conflict now involves cyberattack on digital resources, clear authenticated communication of equivalent digital emblems for digital assets can facilitate compliance with international humanitarian law and protection of humanitarian resources. Extending digital emblems must be accessible through well-known, consensus mechanisms that are respected, verifiable, and accountable against misuse.
+During armed conflicts, infrastructure marked with certain distinctive emblems or signs, including the Red Cross, Red Crescent, and Red Crystal, are given special protections under International Humanitarian Law (IHL) and cannot be attacked under almost all circumstances. As conflicts now involve cyberattacks against digital resources, clear authenticated communication of equivalent digital emblems for digital assets can facilitate compliance with IHL and foster stronger protection of medical and humanitarian resources. Extending digital emblems must be accessible through well-known, consensus mechanisms that are respected, verifiable, and accountable against misuse.
 
 ## Program of work
 
-1. Define the requirements for authenticating, distributing, and verifying digital emblems and distinctive signs with protection under international humanitarian law for online use cases, including endpoints, individual devices, and network resources. Requirements will include: 
+1. Define the requirements for authenticating, distributing, and the digital distinctive emblems and signs  under IHL for online use cases, including endpoints, individual devices, and network resources. Requirements will include: 
 * authenticatable by multiple, decentralized sources; 
 * covert inspection; 
 * extendable and removable; 
@@ -26,4 +26,3 @@ Under international humanitarian law, parties to armed conflict are obliged to r
 
 * Deconfliction
   * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for labeling physical assets or indicating protection against physical or kinetic attack.
-
