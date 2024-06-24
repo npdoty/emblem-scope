@@ -6,14 +6,14 @@ During armed conflicts, infrastructure marked with certain distinctive emblems o
 
 ## Program of work
 
-1. Define the requirements for authenticating, distributing, and the digital distinctive emblems and signs  under IHL for online use cases, including endpoints, individual devices, and network resources. Requirements will include: 
+1. Define the requirements for authenticating, distributing, and the digital distinctive emblems and signs under IHL for network endpoints and resources. Requirements will include: 
 * authenticatable by multiple, decentralized sources; 
 * covert inspection; 
 * extendable and removable; 
 * accountable for misuse; 
 * resilient and implementable, including in times of conflict.
 
-2. Develop a protocol for authenticating and verifying emblems attached to or indicated for endpoints and network resources.
+2. Develop a protocol for authenticating and verifying emblems attached to or indicated for network endpoints and resources.
 
 3. Develop protocol extensions for distributing and communicating emblems through existing networking transports that are determined to meet the requirements from Section 1. Work with existing WGs that own the selected transport protocols.
 
